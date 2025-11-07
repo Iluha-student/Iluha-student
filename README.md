@@ -3,3 +3,7 @@
 ### ⚙️ Technologies and tools                
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/) [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ### 🏆 Achievements
+<details>
+<summary>📜 Click to expand full list</summary>
+- no achievements
+</details>
