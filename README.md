@@ -7,3 +7,6 @@
 <summary>📜 Click to expand full list</summary>
 - no achievements
 </details>
+### 🌐 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-%40EgorAndrik-1CAAD9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Discoguy)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.kuzzmichev@gmail.com)
