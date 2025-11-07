@@ -1,2 +1,3 @@
 # Меня зовут Илья ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-## ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Iluha-student&theme=darkhub)
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iluha-student&show_icons=true&theme=dark)
+
